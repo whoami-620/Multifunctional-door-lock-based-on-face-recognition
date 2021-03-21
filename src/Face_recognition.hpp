@@ -44,6 +44,6 @@ const float ratio_x = (float)output_width/ input_width;
 const float ratio_y = (float)output_height/ input_height;
 
 
-int MTCNNDetection();
+int Detection();
 
 
