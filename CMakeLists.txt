@@ -23,7 +23,10 @@ INCLUDE_DIRECTORIES(${CMAKE_CURRENT_LIST_DIR}/src)
 INCLUDE_DIRECTORIES(${CMAKE_CURRENT_LIST_DIR}/include/ncnn)
 
 find_package(OpenMP REQUIRED)
+<<<<<<< HEAD
 find_library(WIRINGPI_LIBRARIES NAMES wiringPi)
+=======
+>>>>>>> 8ac24dc212310a30b2d66e45bde59b14b8cd3748
 if(OPENMP_FOUND)
     message("OPENMP FOUND")
     set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${OpenMP_C_FLAGS}")
@@ -47,4 +50,7 @@ ADD_LIBRARY(facedetect STATIC
 ADD_EXECUTABLE(LiveFaceReco src/main.cpp)
 #TARGET_LINK_LIBRARIES(LiveFaceReco ${OpenCV_LIBS} ${NCNN_LIB} facedetect libncnn.a)
 TARGET_LINK_LIBRARIES(LiveFaceReco ${OpenCV_LIBS} facedetect libncnn.a)
+<<<<<<< HEAD
 TARGET_LINK_LIBRARIES(LiveFaceReco ${WIRINGPI_LIBRARIES})
+=======
+>>>>>>> 8ac24dc212310a30b2d66e45bde59b14b8cd3748
