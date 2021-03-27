@@ -17,12 +17,17 @@
 #include <time.h>
 #include "live.h"
 #include "mtcnn_new.h"
+#include "wiringPi.h"
+
 
 #define PI 3.14159265
+#define Button 2
 using namespace std;
 using namespace cv;
 
+
 double sum_score, sum_fps,sum_confidence;
+
 
 /**
  * This is a normalize function before calculating the cosine distance. Experiment has proven it can destory the
@@ -78,6 +83,9 @@ inline cv::Mat draw_conclucion(String intro, double input, cv::Mat result_cnn, i
  * 
  */
 int Detection() {
+    wiringPiSetup();
+    int flag;
+    int flag2;
     //OpenCV Version
     cout << "OpenCV Version: " << CV_MAJOR_VERSION << "."
     << CV_MINOR_VERSION << "."
@@ -157,7 +165,8 @@ int Detection() {
     double score, angle;
 
 
-    while (1) {
+    while(1){
+
          count++;
          double t = (double) cv::getTickCount();
          cap >> frame;        
@@ -230,13 +239,24 @@ int Detection() {
                 cv::warpPerspective(frame, aligned, m, cv::Size(96, 112), INTER_LINEAR);
                 resize(aligned, aligned, Size(112, 112), 0, 0, INTER_LINEAR);
                 
-
-                //set to 1 if you want to record your image
-                if (record_face) {
+        //if you want to record your image
+                pinMode(Button,INPUT);
+                
+                if (digitalRead(Button)==1) 
+                {
+                    flag=1;
+                }
+                if (flag==1) {
                     imshow("aligned face", aligned);
                     waitKey(2000);
                     imwrite(project_path+ format("/img/%d.jpg", count), aligned);
-                }
+                    
+                    delay(3000);
+                    flag=0;
+
+                    
+                }    
+               
                 //features of camera image
                 cv::Mat fc2 = reco.getFeature(aligned);
 
@@ -387,4 +407,6 @@ int Detection() {
             cv::waitKey(1);
 
         }
+
+ 
 }
