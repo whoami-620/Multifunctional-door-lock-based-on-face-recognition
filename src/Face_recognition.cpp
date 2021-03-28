@@ -18,10 +18,18 @@
 #include "live.h"
 #include "mtcnn_new.h"
 #include "wiringPi.h"
+#include <unistd.h>
+#include <errno.h>
+#include <string.h>
+#include <sys/types.h>
+#include <sys/wait.h>
+#include <stdlib.h>
 
 
 #define PI 3.14159265
+#define Led 1
 #define Button 2
+#define Red 3
 using namespace std;
 using namespace cv;
 
@@ -83,9 +91,15 @@ inline cv::Mat draw_conclucion(String intro, double input, cv::Mat result_cnn, i
  * 
  */
 int Detection() {
+    //use pin1,2,3
     wiringPiSetup();
-    int flag;
-    int flag2;
+    int Flag=0;
+    int Flag2;
+    pinMode(Button,INPUT);//press the button can add new faces--wenyill
+    pinMode(Red,INPUT);//infrared detection
+    pinMode(Led,OUTPUT);//light
+    
+    
     //OpenCV Version
     cout << "OpenCV Version: " << CV_MAJOR_VERSION << "."
     << CV_MINOR_VERSION << "."
@@ -102,9 +116,7 @@ int Detection() {
 
     class Arcface reco;
 
-
-
-    // loading faces   
+        // loading faces   
     Mat  faces;
     vector<cv::Mat> fc1;
     std::string pattern_jpg = project_path+ "/img/*.jpg";
@@ -163,10 +175,14 @@ int Detection() {
     memcpy(src.data, v1, 2 * 5 * sizeof(float));
 
     double score, angle;
-
-
+ 
+    Flag2=0;
+    
     while(1){
-
+      //if people is detected, then run the reconizing process--wenyili
+      if(digitalRead(Red)==1){
+        
+         digitalWrite(Led,HIGH);
          count++;
          double t = (double) cv::getTickCount();
          cap >> frame;        
@@ -239,21 +255,20 @@ int Detection() {
                 cv::warpPerspective(frame, aligned, m, cv::Size(96, 112), INTER_LINEAR);
                 resize(aligned, aligned, Size(112, 112), 0, 0, INTER_LINEAR);
                 
-        //if you want to record your image
-                pinMode(Button,INPUT);
+                //if you want to record your image, press the button--wenyili
                 
                 if (digitalRead(Button)==1) 
                 {
-                    flag=1;
+                    Flag=1;
                 }
-                if (flag==1) {
+                if (Flag==1) {
                     imshow("aligned face", aligned);
                     waitKey(2000);
                     imwrite(project_path+ format("/img/%d.jpg", count), aligned);
                     
                     delay(3000);
-                    flag=0;
-
+                    Flag=0;
+                    Flag2=1;
                     
                 }    
                
@@ -408,5 +423,23 @@ int Detection() {
 
         }
 
- 
+        else
+        {
+            digitalWrite(Led,LOW);
+        }   
+        //if add new faces, reboot the whole process--wenyili
+        if(Flag2==1){
+            for(int i=0;i<sysconf(_SC_OPEN_MAX);i++){
+                    //Traverse the system files opened by the application
+                    if(i != STDIN_FILENO && i != STDOUT_FILENO && i != STDERR_FILENO)
+                        close(i);
+                        }
+                    //reboot
+                    char *args[] = {(char*)"myprogram.exe",(char*)"config.json",0};
+                    //use system core
+                    execv("/proc/self/exe",args);
+                    exit(0);
+        }
+
+}
 }
