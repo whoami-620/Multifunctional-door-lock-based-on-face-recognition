@@ -1,11 +1,16 @@
 # Multifunctional-door-lock-based-on-face-recognition
-Table of content
-====
-About the project
+## Table of content
+<ol>
+    <li><a href="#get start">Get Start</a></li>
+    <li><a href="#main functions">Main functions</a</li>
+    <li><a href="#operation">Operation</a></li>
+    <li><a href="#run">Run</a></li>
+    <li><a href="#contact">Contact</a></li>
+</ol>
 -----
-This project is a multifunctional door lock based on face recognition. we added some interesting and useful functions on this project.
+This project is a multifunctional door lock based on face recognition, and we added some interesting and useful functions on this project.
 
-Get Start
+## Get Start
 -----
 * Hardware：<br>
     `Raspberry pi 4b `<br>
@@ -22,25 +27,25 @@ Get Start
 * software: <br>
            `linux`
            
- Main functions
+ ## Main functions
    ------
-  * Face recognition<br>
+ * Face recognition<br>
   Our project apply NCNN nerual network framework, it is a high-performance framwork for competing and inference, and face detection method we used is mtcnn.
    It's worth mentioning that we added anti-spoofig function, which can detect whether the face from the camera is real to make sure that our camera won't be 
    cheat by fake face, like faces in photos and screens.<br>
-   * Infrade detection and add new face<br>
+ * Infrade detection and add new face<br>
      When people's face is close to the camera,the red LED shine and it start to detect whether the face is in the existing face repository, 
      if it exists, then send true signal, otherwise it is False signal, we can add more faces to the repository by pressing the button in real time<br>
-    * control of lock<br>
+ * control of lock<br>
     When the raspberry Pi detect the face in the repository, it will send the true signal and the lock will open automatically, we can close the lock after detection.<br>
-    * flame monitor and buzzer<br>
+  * flame monitor and buzzer<br>
     in order to improve the safety performance of our project, we add this part. When the flame monitor detect the fire, the buzzer will make noise to remind people that there's a fire<br>
     
     
     
     
     
-Operation
+## Operation
 ------
    * preparation<br>
    OPENCV>=4.0.0<br>
@@ -48,7 +53,7 @@ Operation
    set 'project_path' in livefacereco.hpp into your own<br>
    
    
-Run
+## Run
 ------
    mkdir build<br>
   cd build<br>
