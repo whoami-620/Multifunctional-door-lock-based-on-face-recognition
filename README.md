@@ -1,17 +1,17 @@
-# Multifunctional-door-lock-based-on-face-recognition
 ## Table of content
 <ol>
-    <li><a href="#get start">Get Start</a></li>
-    <li><a href="#main functions">Main functions</a</li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#get-start">Get Start</a></li>
+    <li><a href="#main-functions">Main functions</a</li>
     <li><a href="#operation">Operation</a></li>
     <li><a href="#run">Run</a></li>
     <li><a href="#contact">Contact</a></li>
 </ol>
------
+
+## About the project
 This project is a multifunctional door lock based on face recognition, and we added some interesting and useful functions on this project.
 
 ## Get Start
------
 * Hardware：<br>
     `Raspberry pi 4b `<br>
                ` Camera with CSI interface` <br>
@@ -27,8 +27,7 @@ This project is a multifunctional door lock based on face recognition, and we ad
 * software: <br>
            `linux`
            
- ## Main functions
-   ------
+## Main functions
  * Face recognition<br>
   Our project apply NCNN nerual network framework, it is a high-performance framwork for competing and inference, and face detection method we used is mtcnn.
    It's worth mentioning that we added anti-spoofig function, which can detect whether the face from the camera is real to make sure that our camera won't be 
@@ -42,11 +41,7 @@ This project is a multifunctional door lock based on face recognition, and we ad
     in order to improve the safety performance of our project, we add this part. When the flame monitor detect the fire, the buzzer will make noise to remind people that there's a fire<br>
     
     
-    
-    
-    
 ## Operation
-------
    * preparation<br>
    OPENCV>=4.0.0<br>
    * project_path<br>
@@ -54,9 +49,12 @@ This project is a multifunctional door lock based on face recognition, and we ad
    
    
 ## Run
-------
-   mkdir build<br>
+  mkdir build<br>
   cd build<br>
   cmake ..<br>
   make -j4<br>
   ./LiveFaceReco<br>
+ ## Contact
+ Xianglong Cheng(2594921C)<br>
+ Wenyi Li(2520495L)<br>
+ Fan Zou(2596373Z)<br>
