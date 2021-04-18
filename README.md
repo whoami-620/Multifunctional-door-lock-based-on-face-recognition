@@ -10,9 +10,15 @@ Get Start
 * Hardware：<br>
     `Raspberry pi 4b `<br>
                ` Camera with CSI interface` <br>
+               `HC-SR 501 RD-624`<br>
+               `lock`
+               `LED(3W)`<br>
+               `buzzer`<br>
+               `flame monitor`<br>
+               `relay`
                `breadboard` <br>
                `some dupont line` <br>
-               
+           
 * software: <br>
            `linux`
            
@@ -24,8 +30,12 @@ Get Start
    cheat by fake face, like faces in photos and screens.<br>
    * Infrade detection and add new face<br>
      When people's face is close to the camera,the red LED shine and it start to detect whether the face is in the existing face repository, 
-     if it exists, then send true signalotherwise it is False signal, we can add more faces to the repository by pressing the button in real time
-    *
+     if it exists, then send true signal, otherwise it is False signal, we can add more faces to the repository by pressing the button in real time<br>
+    * control of lock<br>
+    When the raspberry Pi detect the face in the repository, it will send the true signal and the lock will open automatically, we can close the lock after detection.<br>
+    * flame monitor and buzzer<br>
+    in order to improve the safety performance of our project, we add this part. When the flame monitor detect the fire, the buzzer will make noise to remind people that there's a fire<br>
+    
     
     
     
