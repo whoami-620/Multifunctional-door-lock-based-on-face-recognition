@@ -14,8 +14,7 @@ using namespace cv;
 
 
 int main() {
-                init_read_temp();
-	        read_temp();
+ 
 		Detection();
 
 }
