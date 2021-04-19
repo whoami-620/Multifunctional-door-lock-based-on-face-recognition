@@ -1,5 +1,9 @@
 ## Table of content
+
+
+
 <ol>
+    <li><a href="#social-media">Social Media</a></li>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#get-start">Get Start</a></li>
     <li><a href="#main-functions">Main functions</a</li>
@@ -8,7 +12,22 @@
     <li><a href="#contact">Contact</a></li>
 </ol>
 
+## Social Media
+
+<br />
+<div align="center">
+  <br />
+  <p align="center">
+    <br />
+    <br />
+    <a href="https://twitter.com/Leon83677052"><img height=40 src="image/twitter.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.facebook.com/zeyuan.song.98/"><img height=40 src="image/Facebook.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/2605623s/"><img height=40 src="image/Instagram.svg.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+</div>
+
 ## About the project
+![2.jpg](https://i.loli.net/2021/04/19/lPn96NrFCDWqhpw.jpg)<br>
 This project is a multifunctional door lock based on face recognition, and we added some interesting and useful functions on this project.
 
 ## Get Start
