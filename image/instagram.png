@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US" class="no-js">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+		<meta name="theme-color" content="#1ebbf0"/>	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	        <script type="text/javascript">
+            if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                var originalAddEventListener = EventTarget.prototype.addEventListener,
+                    oldWidth = window.innerWidth;
+
+                EventTarget.prototype.addEventListener = function (eventName, eventHandler, useCapture) {
+                    if (eventName === "resize") {
+                        originalAddEventListener.call(this, eventName, function (event) {
+                            if (oldWidth === window.innerWidth) {
+                                return;
+                            }
+                            else if (oldWidth !== window.innerWidth) {
+                                oldWidth = window.innerWidth;
+                            }
+                            if (eventHandler.handleEvent) {
+                                eventHandler.handleEvent.call(this, event);
+                            }
+                            else {
+                                eventHandler.call(this, event);
+                            };
+                        }, useCapture);
+                    }
+                    else {
+                        originalAddEventListener.call(this, eventName, eventHandler, useCapture);
+                    };
+                };
+            };
+        </script>
+		<title>instagram-1581266_1920 &#8211; 山樂 Nature Bliss</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="山樂 Nature Bliss &raquo; Feed" href="https://www.naturebliss.com.hk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="山樂 Nature Bliss &raquo; Comments Feed" href="https://www.naturebliss.com.hk/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.naturebliss.com.hk\/wp-includes\/js\/wp-emoji-release.min.js?ver=c85789735b2c374bc896994734eeca20"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='layerslider-css'  href='https://www.naturebliss.com.hk/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.10.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.naturebliss.com.hk/wp-includes/css/dist/block-library/style.min.css?ver=c85789735b2c374bc896994734eeca20' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://www.naturebliss.com.hk/wp-includes/css/dist/block-library/theme.min.css?ver=c85789735b2c374bc896994734eeca20' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.naturebliss.com.hk/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='news-manager-front-css'  href='https://www.naturebliss.com.hk/wp-content/plugins/news-manager/css/front.css?ver=c85789735b2c374bc896994734eeca20' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.naturebliss.com.hk/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.22' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='the7-Defaults-css'  href='https://www.naturebliss.com.hk/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=c85789735b2c374bc896994734eeca20' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-web-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto:400,500,600,700|Roboto+Condensed:400,600,700' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css'  href='https://www.naturebliss.com.hk/wp-content/themes/dt-the7/css/main.min.css?ver=9.1.2' type='text/css' media='all' />
+<style id='dt-main-inline-css' type='text/css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#load {
+  background-color: #ffffff;
+}
+.uil-default rect:not(.bk) {
+  fill: rgba(51,51,51,0.3);
+}
+.uil-ring > path {
+  fill: rgba(51,51,51,0.3);
+}
+.ring-loader .circle {
+  fill: rgba(51,51,51,0.3);
+}
+.ring-loader .moving-circle {
+  fill: #333333;
+}
+.uil-hourglass .glass {
+  stroke: #333333;
+}
+.uil-hourglass .sand {
+  fill: rgba(51,51,51,0.3);
+}
+.spinner-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg width='75px' height='75px' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' preserveAspectRatio='xMidYMid' class='uil-default'%3E%3Crect x='0' y='0' width='100' height='100' fill='none' class='bk'%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(0 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(30 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.08333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(60 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.16666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(90 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.25s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(120 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.3333333333333333s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(150 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.4166666666666667s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(180 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(210 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.5833333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(240 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.6666666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(270 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.75s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(300 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.8333333333333334s' repeatCount='indefinite'/%3E%3C/rect%3E%3Crect  x='46.5' y='40' width='7' height='20' rx='5' ry='5' fill='rgba%2851%2C51%2C51%2C0.3%29' transform='rotate(330 50 50) translate(0 -30)'%3E  %3Canimate attributeName='opacity' from='1' to='0' dur='1s' begin='0.9166666666666666s' repeatCount='indefinite'/%3E%3C/rect%3E%3C/svg%3E");
+}
+.ring-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='rgba%2851%2C51%2C51%2C0.3%29'%3E   %3Cpath opacity='.25' d='M16 0 A16 16 0 0 0 16 32 A16 16 0 0 0 16 0 M16 4 A12 12 0 0 1 16 28 A12 12 0 0 1 16 4'/%3E   %3Cpath d='M16 0 A16 16 0 0 1 32 16 L28 16 A12 12 0 0 0 16 4z'%3E     %3CanimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='0.8s' repeatCount='indefinite' /%3E   %3C/path%3E %3C/svg%3E");
+}
+.hourglass-loader .load-wrap {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32' width='72' height='72' fill='rgba%2851%2C51%2C51%2C0.3%29'%3E   %3Cpath transform='translate(2)' d='M0 12 V20 H4 V12z'%3E      %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(8)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.2' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline'  /%3E   %3C/path%3E   %3Cpath transform='translate(14)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.4' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(20)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.6' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E   %3Cpath transform='translate(26)' d='M0 12 V20 H4 V12z'%3E     %3Canimate attributeName='d' values='M0 12 V20 H4 V12z; M0 4 V28 H4 V4z; M0 12 V20 H4 V12z; M0 12 V20 H4 V12z' dur='1.2s' repeatCount='indefinite' begin='0.8' keytimes='0;.2;.5;1' keySplines='0.2 0.2 0.4 0.8;0.2 0.6 0.4 0.8;0.2 0.8 0.4 0.8' calcMode='spline' /%3E   %3C/path%3E %3C/svg%3E");
+}
+
+</style>
+<link rel='stylesheet' id='the7-font-css'  href='https://www.naturebliss.com.hk/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.min.css?ver=9.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-awesome-fonts-css'  href='https://www.naturebliss.com.hk/wp-content/themes/dt-the7/fonts/FontAwesome/css/all.min.css?ver=9.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-awesome-fonts-back-css'  href='https://www.naturebliss.com.hk/wp-content/themes/dt-the7/fonts/FontAwesome/back-compat.min.css?ver=9.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-core-css'  href='https://www.naturebliss.com.hk/wp-content/plugins/dt-the7-core/assets/css/post-type.min.css?ver=2.5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-custom-css'  href='https://www.naturebliss.com.hk/wp-content/uploads/the7-css/custom.css?ver=b739d7f962df' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media-css'  href='https://www.naturebliss.com.hk/wp-content/uploads/the7-css/media.css?ver=b739d7f962df' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-mega-menu-css'  href='https://www.naturebliss.com.hk/wp-content/uploads/the7-css/mega-menu.css?ver=b739d7f962df' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-elements-albums-portfolio-css'  href='https://www.naturebliss.com.hk/wp-content/uploads/the7-css/the7-elements-albums-portfolio.css?ver=b739d7f962df' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-elements-css'  href='https://www.naturebliss.com.hk/wp-content/uploads/the7-css/post-type-dynamic.css?ver=b739d7f962df' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.naturebliss.com.hk/wp-content/themes/dt-the7/style.css?ver=9.1.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var slide_in = {"demo_dir":"https:\/\/www.naturebliss.com.hk\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.10.2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0'></script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.10.2'></script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.10.2'></script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.2.22'></script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.22'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"https:\/\/www.naturebliss.com.hk\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"3890","ajaxurl":"https:\/\/www.naturebliss.com.hk\/wp-admin\/admin-ajax.php","REST":{"baseUrl":"https:\/\/www.naturebliss.com.hk\/wp-json\/the7\/v1","endpoints":{"sendMail":"\/send-mail"}},"contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy.","fillTheCaptchaError":"Please, fill the captcha."},"captchaSiteKey":"","ajaxNonce":"3c93bde1f2","pageData":"","themeSettings":{"smoothScroll":"off","lazyLoading":false,"accentColor":{"mode":"gradient","color":"#1ebbf0"},"desktopHeader":{"height":180},"ToggleCaptionEnabled":"disabled","ToggleCaption":"Navigation","floatingHeader":{"showAfter":140,"showMenu":false,"height":60,"logo":{"showLogo":false,"html":"<img class=\" preload-me\" src=\"https:\/\/www.naturebliss.com.hk\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-regular.png\" srcset=\"https:\/\/www.naturebliss.com.hk\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-regular.png 44w, https:\/\/www.naturebliss.com.hk\/wp-content\/themes\/dt-the7\/inc\/presets\/images\/full\/skin11r.header-style-floating-logo-hd.png 88w\" width=\"44\" height=\"44\"   sizes=\"44px\" alt=\"\u5c71\u6a02 Nature Bliss\" \/>","url":"https:\/\/www.naturebliss.com.hk\/"}},"topLine":{"floatingTopLine":{"logo":{"showLogo":false,"html":""}}},"mobileHeader":{"firstSwitchPoint":256,"secondSwitchPoint":778,"firstSwitchPointHeight":80,"secondSwitchPointHeight":60,"mobileToggleCaptionEnabled":"disabled","mobileToggleCaption":"Menu"},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.naturebliss.com.hk\/wp-content\/uploads\/2015\/04\/natureBliss.png\" srcset=\"https:\/\/www.naturebliss.com.hk\/wp-content\/uploads\/2015\/04\/natureBliss.png 256w, https:\/\/www.naturebliss.com.hk\/wp-content\/uploads\/2015\/04\/natureBliss.png 256w\" width=\"256\" height=\"337\"   sizes=\"256px\" alt=\"\u5c71\u6a02 Nature Bliss\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/www.naturebliss.com.hk\/wp-content\/uploads\/2015\/04\/header.png\" srcset=\"https:\/\/www.naturebliss.com.hk\/wp-content\/uploads\/2015\/04\/header.png 671w, https:\/\/www.naturebliss.com.hk\/wp-content\/uploads\/2015\/04\/header.png 671w\" width=\"671\" height=\"154\"   sizes=\"671px\" alt=\"\u5c71\u6a02 Nature Bliss\" \/>"}},"content":{"textColor":"#000000","headerColor":"#000000"},"sidebar":{"switchPoint":990},"boxedWidth":"1340px","stripes":{"stripe1":{"textColor":"#787d85","headerColor":"#3b3f4a"},"stripe2":{"textColor":"#8b9199","headerColor":"#ffffff"},"stripe3":{"textColor":"#ffffff","headerColor":"#ffffff"}}},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=9.1.2'></script>
+<meta name="generator" content="Powered by LayerSlider 6.10.2 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel='https://api.w.org/' href='https://www.naturebliss.com.hk/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.naturebliss.com.hk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.naturebliss.com.hk/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='https://www.naturebliss.com.hk/?p=3890' />
+<link rel="alternate" type="application/json+oembed" href="https://www.naturebliss.com.hk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.naturebliss.com.hk%2Finstagram-1581266_1920%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.naturebliss.com.hk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.naturebliss.com.hk%2Finstagram-1581266_1920%2F&#038;format=xml" />
+<meta property="og:site_name" content="山樂 Nature Bliss" />
+<meta property="og:title" content="instagram-1581266_1920" />
+<meta property="og:image" content="https://www.naturebliss.com.hk/wp-content/uploads/2020/07/instagram-1581266_1920.jpg" />
+<meta property="og:url" content="https://www.naturebliss.com.hk/instagram-1581266_1920/" />
+<meta property="og:type" content="article" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.2.22 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) { 
+	var load = document.getElementById("load");
+	if(!load.classList.contains('loader-removed')){
+		var removeLoading = setTimeout(function() {
+			load.className += " loader-removed";
+		}, 300);
+	}
+});
+</script>
+		<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="attachment attachment-template-default single single-attachment postid-3890 attachmentid-3890 attachment-jpeg wp-embed-responsive the7-core-ver-2.5.0.3 no-comments dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable  fade-medium-mobile-menu-close-icon fade-medium-menu-close-icon accent-gradient srcset-enabled btn-flat custom-btn-color custom-btn-hover-color sticky-mobile-header top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style dt-fa-compatibility the7-ver-9.1.2 wpb-js-composer js-comp-ver-6.3.0 vc_responsive">
+<!-- The7 9.1.2 -->
+<div id="load" class="spinner-loader">
+	<div class="load-wrap"></div>
+</div>
+<div id="page" >
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="masthead classic-header center bg-behind-menu logo-center full-height full-width shadow-decoration shadow-mobile-header-decoration small-mobile-menu-icon dt-parent-menu-clickable show-device-logo"  role="banner">
+
+	<div class="top-bar line-content top-bar-empty top-bar-line-hide">
+	<div class="top-bar-bg" ></div>
+	<div class="mini-widgets left-widgets"></div><div class="mini-widgets right-widgets"></div></div>
+
+	<header class="header-bar">
+
+		<div class="branding">
+	<div id="site-title" class="assistive-text">山樂 Nature Bliss</div>
+	<div id="site-description" class="assistive-text">樂在山水之間</div>
+	<a class="" href="https://www.naturebliss.com.hk/"><img class=" preload-me" src="https://www.naturebliss.com.hk/wp-content/uploads/2015/04/header.png" srcset="https://www.naturebliss.com.hk/wp-content/uploads/2015/04/header.png 671w, https://www.naturebliss.com.hk/wp-content/uploads/2015/04/header.png 671w" width="671" height="154"   sizes="671px" alt="山樂 Nature Bliss" /><img class="mobile-logo preload-me" src="https://www.naturebliss.com.hk/wp-content/uploads/2015/04/natureBliss.png" srcset="https://www.naturebliss.com.hk/wp-content/uploads/2015/04/natureBliss.png 256w, https://www.naturebliss.com.hk/wp-content/uploads/2015/04/natureBliss.png 256w" width="256" height="337"   sizes="256px" alt="山樂 Nature Bliss" /></a><div class="mini-widgets"></div><div class="mini-widgets"></div></div>
+
+		<nav class="navigation">
+
+			<ul id="primary-menu" class="main-nav underline-decoration l-to-r-line outside-item-remove-margin" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3029 first" role="presentation"><a href='https://www.naturebliss.com.hk/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">首頁</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3054" role="presentation"><a href='https://www.naturebliss.com.hk/service/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">課程活動</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3593" role="presentation"><a href='https://www.naturebliss.com.hk/gallery/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">活動相冊</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3031" role="presentation"><a href='https://www.naturebliss.com.hk/enrollment/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">網上報名</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3032" role="presentation"><a href='https://www.naturebliss.com.hk/contact-us/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">聯絡我們</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3033" role="presentation"><a href='https://www.naturebliss.com.hk/about/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">關於山樂</span></span></a></li> </ul>
+			
+		</nav>
+
+	</header>
+
+</div>
+<div class="dt-mobile-header mobile-menu-show-divider">
+	<div class="dt-close-mobile-menu-icon"><div class="close-line-wrap"><span class="close-line"></span><span class="close-line"></span><span class="close-line"></span></div></div>	<ul id="mobile-menu" class="mobile-main-nav" role="menubar">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3029 first" role="presentation"><a href='https://www.naturebliss.com.hk/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">首頁</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3054" role="presentation"><a href='https://www.naturebliss.com.hk/service/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">課程活動</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3593" role="presentation"><a href='https://www.naturebliss.com.hk/gallery/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">活動相冊</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3031" role="presentation"><a href='https://www.naturebliss.com.hk/enrollment/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">網上報名</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3032" role="presentation"><a href='https://www.naturebliss.com.hk/contact-us/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">聯絡我們</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3033" role="presentation"><a href='https://www.naturebliss.com.hk/about/' data-level='1' role="menuitem"><span class="menu-item-text"><span class="menu-text">關於山樂</span></span></a></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+
+
+
+<div id="main" class="sidebar-none sidebar-divider-vertical">
+
+	
+	<div class="main-gradient"></div>
+	<div class="wf-wrap">
+	<div class="wf-container-main">
+
+	
+
+			<!-- Content -->
+			<div id="content" class="content" role="main">
+
+				
+					
+						<article id="post-3890" class="post-3890 attachment type-attachment status-inherit description-off">
+
+							
+							<a href="https://www.naturebliss.com.hk/wp-content/uploads/2020/07/instagram-1581266_1920.jpg" class="alignnone rollover rollover-zoom dt-pswp-item layzr-bg" data-dt-img-description="" title="instagram-1581266_1920"><img class="preload-me lazy-load" src="data:image/svg+xml,%3Csvg%20xmlns%3D&#39;http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg&#39;%20viewBox%3D&#39;0%200%201920%201905&#39;%2F%3E" data-src="https://www.naturebliss.com.hk/wp-content/uploads/2020/07/instagram-1581266_1920.jpg" data-srcset="https://www.naturebliss.com.hk/wp-content/uploads/2020/07/instagram-1581266_1920.jpg 1920w" alt="" width="1920" height="1905"  /></a><span class="cp-load-after-post"></span>
+						</article>
+
+						
+					
+				
+			</div><!-- #content -->
+
+			
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+	
+	</div><!-- #main -->
+
+	
+
+	
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+		
+<!-- !Bottom-bar -->
+<div id="bottom-bar" class="logo-left" role="contentinfo">
+    <div class="wf-wrap">
+        <div class="wf-container-bottom">
+
+			
+                <div class="wf-float-left">
+
+					&nbsp;Dream-Theme &mdash; truly <a href="http://dream-theme.com" target="_blank">premium WordPress themes</a>
+                </div>
+
+			
+            <div class="wf-float-right">
+
+				
+            </div>
+
+        </div><!-- .wf-container-bottom -->
+    </div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+	</footer><!-- #footer -->
+
+
+	<a href="#" class="scroll-top"><span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+			<script type="text/javascript" id="modal">
+				document.addEventListener("DOMContentLoaded", function(){
+					startclock();
+				});
+				function stopclock (){
+					if(timerRunning) clearTimeout(timerID);
+					timerRunning = false;
+						//document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1618847943 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="info-bar">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1618847943 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="slidein">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1618847943 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+				<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/themes/dt-the7/js/main.min.js?ver=9.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.naturebliss.com.hk\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-content/plugins/dt-the7-core/assets/js/post-type.min.js?ver=2.5.0.3'></script>
+<script type='text/javascript' src='https://www.naturebliss.com.hk/wp-includes/js/wp-embed.min.js?ver=c85789735b2c374bc896994734eeca20'></script>
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div> 
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)" aria-label="Previous (arrow left)">
+			</button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)" aria-label="Next (arrow right)">
+			</button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>
