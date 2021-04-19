@@ -14,7 +14,7 @@ void doVoice(void)// make warning
 {
     
     wiringPiSetup();
-    pinMode(VOICE,OUTPUT); 
+    pinMode(VOICE, OUTPUT); 
     
     digitalWrite(VOICE,LOW); 
     for(int i=1;i<=6;i++){
