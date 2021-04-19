@@ -24,6 +24,12 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <stdlib.h>
+#include <lock.cpp>
+#include <lock.h>
+#include <fire.cpp>
+#include <fire.h>
+
+
 
 
 #define PI 3.14159265
@@ -179,6 +185,7 @@ int Detection() {
     Flag2=0;
     
     while(1){
+	
       //if people is detected, then run the reconizing process--wenyili
       if(digitalRead(Red)==1){
         
@@ -308,6 +315,9 @@ int Detection() {
                                 else
                                     {putText(result_cnn, "Correct", cv::Point(5, 80), cv::FONT_HERSHEY_SIMPLEX,0.75, cv::Scalar(255, 255, 0),2);     
                                     liveface="Correct";
+				     Open();
+				     delay(1000);
+				     Close();
                                     }
                                 cout<<liveface<<endl;
                                 stranger=0;
