@@ -21,7 +21,7 @@ int Open()
 }
 
 
-int close()
+int Close()
 {
         
         wiringPiSetup();  
