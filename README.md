@@ -45,7 +45,7 @@ This project is a multifunctional door lock based on face recognition, and we ad
    * preparation<br>
    OPENCV>=4.0.0<br>
    * project_path<br>
-   set 'project_path' in livefacereco.hpp into your own<br>
+   set 'project_path' in live.hpp into your own<br>
    
    
 ## Run
