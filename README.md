@@ -74,7 +74,7 @@ This project is a multifunctional door lock based on face recognition, and we ad
   make -j4<br>
   ./LiveFaceReco<br>
  ## Contact
- Xianglong Cheng(2594921C)<br>
- Wenyi Li(2520495L)<br>
- Fan Zou(2596373Z)<br>
+ Xianglong Cheng(2594921C)--whoami-620 <br>
+ Wenyi Li(2520495L)--chenyinzhijin<br>
+ Fan Zou(2596373Z)--zopho2010<br>
 
