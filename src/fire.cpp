@@ -7,7 +7,7 @@
 #include <sys/time.h>
 
 #define FIRE 5
-#define VOICE 2
+#define VOICE 4
 
 
 void doVoice(void)// make warning
