@@ -20,9 +20,11 @@
   <p align="center">
     <br />
     <br />
-    <a href="https://twitter.com/Leon83677052"><img height=40 src="image/twitter.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      
     <a href="https://youtu.be/I2r6lzp_wlI"><img height=40 src="image/youtube.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/zopho2010/"><img height=40 src="image/instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/p/CN2oNG6J-YS/"><img height=40 src="image/instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+    
     </p>
 </div>
 
@@ -74,7 +76,7 @@ This project is a multifunctional door lock based on face recognition, and we ad
   make -j4<br>
   ./LiveFaceReco<br>
  ## Contact
- Xianglong Cheng(2594921C)<br>
- Wenyi Li(2520495L)<br>
- Fan Zou(2596373Z)<br>
+ Xianglong Cheng(2594921C)--whoami-620<br>
+ Wenyi Li(2520495L)--chenyinzhijin<br>
+ Fan Zou(2596373Z)--zopho2010<br>
 
