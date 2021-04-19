@@ -21,7 +21,7 @@
     <br />
     <br />
     <a href="https://youtu.be/I2r6lzp_wlI"><img height=40 src="image/youtube.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/zopho2010/"><img height=40 src="image/instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/p/CN2oNG6J-YS/"><img height=40 src="image/instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
 </div>
 
