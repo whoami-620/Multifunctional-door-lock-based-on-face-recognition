@@ -1,5 +1,9 @@
 ## Table of content
+
+
+
 <ol>
+    <li><a href="#social-media">Social Media</a></li>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#get-start">Get Start</a></li>
     <li><a href="#main-functions">Main functions</a</li>
@@ -8,7 +12,22 @@
     <li><a href="#contact">Contact</a></li>
 </ol>
 
+## Social Media
+
+<br />
+<div align="center">
+  <br />
+  <p align="center">
+    <br />
+    <br />
+    <a href="https://twitter.com/Leon83677052"><img height=40 src="image/twitter.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://youtu.be/I2r6lzp_wlI"><img height=40 src="image/youtube.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/zopho2010/"><img height=40 src="image/instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+</div>
+
 ## About the project
+![2.jpg](https://i.loli.net/2021/04/19/lPn96NrFCDWqhpw.jpg)<br>
 This project is a multifunctional door lock based on face recognition, and we added some interesting and useful functions on this project.
 
 ## Get Start
@@ -16,11 +35,11 @@ This project is a multifunctional door lock based on face recognition, and we ad
     `Raspberry pi 4b `<br>
                ` Camera with CSI interface` <br>
                `HC-SR 501 RD-624`<br>
-               `lock`<br>
+               `lock`
                `LED(3W)`<br>
                `buzzer`<br>
                `flame monitor`<br>
-               `relay`<br>
+               `relay`
                `breadboard` <br>
                `some dupont line` <br>
            
@@ -58,3 +77,4 @@ This project is a multifunctional door lock based on face recognition, and we ad
  Xianglong Cheng(2594921C)<br>
  Wenyi Li(2520495L)<br>
  Fan Zou(2596373Z)<br>
+
