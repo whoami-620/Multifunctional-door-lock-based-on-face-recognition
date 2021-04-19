@@ -16,11 +16,11 @@ This project is a multifunctional door lock based on face recognition, and we ad
     `Raspberry pi 4b `<br>
                ` Camera with CSI interface` <br>
                `HC-SR 501 RD-624`<br>
-               `lock`
+               `lock`<br>
                `LED(3W)`<br>
                `buzzer`<br>
                `flame monitor`<br>
-               `relay`
+               `relay`<br>
                `breadboard` <br>
                `some dupont line` <br>
            
